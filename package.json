@@ -6,10 +6,6 @@
   "bin": {
     "bonum": "./bin/index.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/icecream-lin/bonum-cli-build.git"
-  },
   "dependencies": {
     "chalk": "^4.1.2",
     "commander": "^8.2.0",
